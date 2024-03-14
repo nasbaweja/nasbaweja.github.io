@@ -1,25 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import {
+  HashRouter as Router,
+  Route,
+  Routes,
+  Navigate ,
+} from 'react-router-dom'
 
-function App() {
+
+import './App.css'
+import Home from './views/home'
+import AboutMe from './views/aboutMe'
+import NotFound from './views/not-found'
+import Skills from './views/skills'
+import Experience from './views/experience'
+// import ContactMe from "./views/contactMe" 
+// import Certifications from './views/certifications'
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Router>
+      <Routes>
+        <Route path='/' element={<Home/>} />
+        <Route path='/AboutMe' element={<AboutMe/>} />
+        <Route path='/Skills' element={<Skills />} />
+        <Route path='/Experience' element={<Experience />} />
+        {/* <Route path='/ContactInfo' element={<ContactMe />} /> */}
+        {/* <Route path='/Certifications' element={<Certifications />} /> */}
+        <Route path="*" element={<NotFound/>} />
+      </Routes>
+    </Router>
+  )
 }
 
 export default App;
