@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.efba4013.css",
-    "main.js": "./static/js/main.92495526.js",
+    "main.js": "./static/js/main.a1ad17c6.js",
     "static/js/453.553264b0.chunk.js": "./static/js/453.553264b0.chunk.js",
     "static/media/vappu.jpg.png": "./static/media/vappu.jpg.ac240fbe3c39458cadfb.png",
     "static/media/vappu.jpg": "./static/media/vappu.3e7baabaa4d25162a2a9.jpg",
@@ -16,11 +16,11 @@
     "static/media/Default-Monochrome-Black.svg": "./static/media/Default-Monochrome-Black.49e95d27bfe15c5bc79be0a3fa9a0323.svg",
     "index.html": "./index.html",
     "main.efba4013.css.map": "./static/css/main.efba4013.css.map",
-    "main.92495526.js.map": "./static/js/main.92495526.js.map",
+    "main.a1ad17c6.js.map": "./static/js/main.a1ad17c6.js.map",
     "453.553264b0.chunk.js.map": "./static/js/453.553264b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efba4013.css",
-    "static/js/main.92495526.js"
+    "static/js/main.a1ad17c6.js"
   ]
 }
