@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/public/static/css/main.efba4013.css",
-    "main.js": "/public/static/js/main.33fa7d62.js",
-    "static/js/453.553264b0.chunk.js": "/public/static/js/453.553264b0.chunk.js",
-    "static/media/vappu.jpg.png": "/public/static/media/vappu.jpg.ac240fbe3c39458cadfb.png",
-    "static/media/vappu.jpg": "/public/static/media/vappu.3e7baabaa4d25162a2a9.jpg",
-    "static/media/nimer-singh.png": "/public/static/media/nimer-singh.5d6a3da55c3e1f981cf5.png",
-    "static/media/Shivoham.png": "/public/static/media/Shivoham.90f911ae32e6e9e00f87.png",
-    "static/media/116.png": "/public/static/media/116.0f3200a3d83298aee08a.png",
-    "static/media/NimerSingh_Resume.pdf": "/public/static/media/NimerSingh_Resume.72b4690517b90d749ded.pdf",
-    "static/media/Dell.png": "/public/static/media/Dell.2f0be3061f333c170913.png",
-    "static/media/Default-Monochrome-White.svg": "/public/static/media/Default-Monochrome-White.eeb128c69fde535f3726d3ff9fe9aa63.svg",
-    "static/media/Aalto.png": "/public/static/media/Aalto.1293d33c96b28c768720.png",
-    "static/media/404.jpg": "/public/static/media/404.ae8e0d514b4c5d9f9d90.jpg",
-    "static/media/Default-Monochrome-Black.svg": "/public/static/media/Default-Monochrome-Black.49e95d27bfe15c5bc79be0a3fa9a0323.svg",
-    "index.html": "/public/index.html",
-    "main.efba4013.css.map": "/public/static/css/main.efba4013.css.map",
-    "main.33fa7d62.js.map": "/public/static/js/main.33fa7d62.js.map",
-    "453.553264b0.chunk.js.map": "/public/static/js/453.553264b0.chunk.js.map"
+    "main.css": "/build/static/css/main.efba4013.css",
+    "main.js": "/build/static/js/main.9c010076.js",
+    "static/js/453.553264b0.chunk.js": "/build/static/js/453.553264b0.chunk.js",
+    "static/media/vappu.jpg.png": "/build/static/media/vappu.jpg.ac240fbe3c39458cadfb.png",
+    "static/media/vappu.jpg": "/build/static/media/vappu.3e7baabaa4d25162a2a9.jpg",
+    "static/media/nimer-singh.png": "/build/static/media/nimer-singh.5d6a3da55c3e1f981cf5.png",
+    "static/media/Shivoham.png": "/build/static/media/Shivoham.90f911ae32e6e9e00f87.png",
+    "static/media/116.png": "/build/static/media/116.0f3200a3d83298aee08a.png",
+    "static/media/NimerSingh_Resume.pdf": "/build/static/media/NimerSingh_Resume.72b4690517b90d749ded.pdf",
+    "static/media/Dell.png": "/build/static/media/Dell.2f0be3061f333c170913.png",
+    "static/media/Default-Monochrome-White.svg": "/build/static/media/Default-Monochrome-White.eeb128c69fde535f3726d3ff9fe9aa63.svg",
+    "static/media/Aalto.png": "/build/static/media/Aalto.1293d33c96b28c768720.png",
+    "static/media/404.jpg": "/build/static/media/404.ae8e0d514b4c5d9f9d90.jpg",
+    "static/media/Default-Monochrome-Black.svg": "/build/static/media/Default-Monochrome-Black.49e95d27bfe15c5bc79be0a3fa9a0323.svg",
+    "index.html": "/build/index.html",
+    "main.efba4013.css.map": "/build/static/css/main.efba4013.css.map",
+    "main.9c010076.js.map": "/build/static/js/main.9c010076.js.map",
+    "453.553264b0.chunk.js.map": "/build/static/js/453.553264b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efba4013.css",
-    "static/js/main.33fa7d62.js"
+    "static/js/main.9c010076.js"
   ]
 }
