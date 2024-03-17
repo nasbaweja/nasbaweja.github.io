@@ -13,8 +13,7 @@ const Main2 = () => {
           Skilled strategist with a proven track
                 record of successfully mitigating risk and
                 solving complex challenges with a focus
-                on information security and privacy. I live
-                by the motto, “Illogical and proud of it”.
+                on information security and privacy.
           </span>
           <span className="home-banner-sub-heading bodySmall">
           <div className="home-icon-group1 d-flex justify-content-center">
