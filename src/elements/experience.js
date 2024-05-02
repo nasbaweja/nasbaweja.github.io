@@ -29,14 +29,14 @@ function ExperiencePage() {
       company: "Shivoham",
       logo: ShivohamLogo, // Replace with actual URL of the company's logo
       info: "Shivoham Techno Services is a provider of personalized solutions for IoT and Automation focusing on Industry 4.0 using a sustainable and environmentally friendly approach. The company focuses on energy and efficiency solutions for a better future.",
-      title: "Team Lead",
+      title: "DevOps Engineer",
       position: "Full-Time",
       duration: "August 2020 - February 2022",
       responsibilities: [
-        "Lead a team of 6 R&D and production engineers.", 
-        "Developed smart city electrical grid management applications and automation solutions for the hospitality industry, using various technologies and deploying them on Google Cloud.", 
-        "Headed quality management and assurance division to improve resource rationalization, process efficiency and cost-effective solutions.",
-        "Successfully managed project budgets and timelines to meet scheduled targets."
+        "Developed smart city electrical grid management applications and automation solutions for the hospitality industry, using Python, Javascript & and deploying them on Google Cloud.",
+        "Implemented and maintained CI/CD pipelines to automate build, test and deployment of applications.",
+        "Identified performance bottlenecks and optimized system performance through configuration tuning and infrastructure scaling while keeping security in mind.",
+        "Led QA division to optimize resources, enhance processes, and deliver cost-effective solutions."
         ],
     },
     {
@@ -46,7 +46,7 @@ function ExperiencePage() {
         info:"Dell technologies designs, develops, manufactures, markets, sells, and supports information technology infrastructure as well as software and cloud solutions",
         title: "Software Developer",
         position: "Intern",
-        duration: 'January 2020 - January 2020',
+        duration: 'January 2020 - May 2020',
         responsibilities: [
           "Analyzed the processes of Availability Command Center Team (ACC Team) to identify tasks for automation and implement them.",
           "Created dashboards for supply chain to reduce customer support response time.",
