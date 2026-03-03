@@ -1,6 +1,6 @@
 import SourceImg from '../images/vappu.jpg.png';
 import Button from 'react-bootstrap/Button';
-import Resume from "../content/NimerSingh_Resume.pdf";
+// import Resume from "../content/NimerSingh_Resume.pdf";
 
 const MainHeader = () => {
     return (
@@ -29,7 +29,7 @@ const MainHeader = () => {
                             <button className="buttonFlat">FAQs</button>
                         </div> */}
                         <div className="home-btn-group">
-                            <Button variant="light" className="home-btn-group" href={Resume} download="Nimer A. Singh Resume.pdf" target='_blank'>Download Resume</Button>
+                            {/* <Button variant="light" className="home-btn-group" href={Resume} download="Nimer A. Singh Resume.pdf" target='_blank'>Download Resume</Button> */}
                             <Button variant="light" className="home-btn-group" onClick={()=> document.getElementById('home-faq').scrollIntoView()}>FAQs</Button>
                         </div>
                     </div>

@@ -4,7 +4,7 @@ import { Navbar, Nav, Container } from 'react-bootstrap'
 import { Helmet } from 'react-helmet'
 import LogoBlack from '../images/Logos/Default-Monochrome-Black.svg'
 import LogoWhite from '../images/Logos/Default-Monochrome-White.svg'
-import Resume from "../content/NimerSingh_Resume.pdf";
+// import Resume from "../content/NimerSingh_Resume.pdf";
 
 function CustomNavbar() {
   const [navbarShrink, setNavbarShrink] = useState(false);
@@ -52,7 +52,7 @@ function CustomNavbar() {
                 <Nav.Link href="/#/Experience" className="home-nav32 bodySmall" style={{color: navbarShrink ? 'white' : 'black'}}>Experience</Nav.Link>
                 {/* <Nav.Link href="/Certifications" className="home-nav42 bodySmall">Certifications</Nav.Link> */}
                 {/* <Nav.Link href="/ContactInfo" className="home-nav52 bodySmall" style={{color: navbarShrink ? 'white' : 'black'}}>Contact me</Nav.Link> */}
-                <Nav.Link href={Resume} className="home-nav62 bodySmall" download="Nimer A. Singh Resume.pdf" target='_blank' style={{color: navbarShrink ? 'white' : 'black'}}>Resume</Nav.Link>
+                {/* <Nav.Link href={Resume} className="home-nav62 bodySmall" download="Nimer A. Singh Resume.pdf" target='_blank' style={{color: navbarShrink ? 'white' : 'black'}}>Resume</Nav.Link> */}
               </Nav>
             {/* </Navbar.Collapse> */}
         </Navbar>

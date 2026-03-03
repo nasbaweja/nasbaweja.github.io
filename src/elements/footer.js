@@ -1,6 +1,5 @@
 import React from 'react';
 import Logo from '../images/Logos/Default-Monochrome-Black.svg';
-import Resume from "../content/NimerSingh_Resume.pdf";
 
 const Footer = () => {
   return (
@@ -19,7 +18,7 @@ const Footer = () => {
 <a href={ExampleDoc} download="MyExampleDoc" target='_blank'>
    <Button className={classes.navLink}>My Example Doc</Button>
 </a> */}
-              <a className="home-nav622 bodySmall" href={Resume} download="Nimer A. Singh Resume.pdf" target="_blank">Resume</a>
+              {/* <a className="home-nav622 bodySmall" href={Resume} download="Nimer A. Singh Resume.pdf" target="_blank">Resume</a> */}
             </nav>
           </div>
           <div className="home-separator"></div>
